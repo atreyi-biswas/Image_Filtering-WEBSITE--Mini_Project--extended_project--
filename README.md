@@ -95,7 +95,7 @@ When a preset button is clicked:
 ## Screenshot
 
 ```md
-![Preset Filters](images/preset-filters.png)
+![Preset Filters](images/2.png)
 ```
 
 ---
@@ -313,7 +313,7 @@ Useful for:
 ## Screenshot
 
 ```md
-![Histogram](images/histogram.png)
+![Histogram](images/4.png)
 ```
 
 ---
